@@ -11,7 +11,7 @@
 
 #### Estudando no momento :
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,py,django,git,github)](https://github.com/Isacmq)
+[![Habilidades](https://skillicons.dev/icons?i=js,py,django,git,github)](https://github.com/Isacmq)
 
 #### Ferramentas de Trabalho :
 
