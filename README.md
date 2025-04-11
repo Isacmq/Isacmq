@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Alan+Barbosa+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/BarbosAlan)
 
-<p align="center">Olá! Me chamo Alan, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho um foco especial no desenvolvimento de aplicações Front-End, área pela qual sou profundamente apaixonado. Movido pelo amor à tecnologia e pelo entusiasmo em enfrentar desafios, estou sempre em busca de novas formas de aprender, evoluir e criar soluções que realmente façam a diferença nesse universo em constante transformação.</p>
+<p align="center">Olá! Me chamo Isac Queiroz, tenho 19 anos e atualmente estou cursando Full Stack em Python com aplicações em cripto no Senac. Tenho um foco especial no desenvolvimento de aplicações Front-End. Estou sempre em busca de novas formas de aprender, evoluir e criar soluções que realmente façam a diferença.</p>
 
 ## Minhas Habilidades :
 
