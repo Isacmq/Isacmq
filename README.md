@@ -6,7 +6,7 @@
 
 ## Minhas Habilidades :
 
-[![HTML-CSS](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://github.com/Isacmq)
+[![HTML-CSS](https://skillicons.dev/icons?i=html,css,bootstrap,js,excel)](https://github.com/Isacmq)
 
 
 #### Estudando no momento :
