@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Alan+Barbosa+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/BarbosAlan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Isac+Queiroz+Desenvolvedor+Front-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/Isacmq)
 
 <p align="center">Olá! Me chamo Isac Queiroz, tenho 19 anos e atualmente estou cursando Full Stack em Python com aplicações em cripto no Senac. Tenho um foco especial no desenvolvimento de aplicações Front-End. Estou sempre em busca de novas formas de aprender, evoluir e criar soluções que realmente façam a diferença.</p>
 
